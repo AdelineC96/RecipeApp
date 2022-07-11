@@ -1,0 +1,31 @@
+.label {
+  margin-bottom: 0.8rem;
+  font-weight: 500;
+}
+
+.input-group {
+  margin-bottom: 1.5rem;
+}
+
+.label {
+  margin-bottom: 2 rem;
+}
+
+
+.resetBtn:hover {
+  background-color: red;
+}
+
+button.MuiButtonBase-root.MuiToggleButton-root.MuiToggleButton-sizeMedium.MuiToggleButton-standard.resetBtn.css-1gaxd6t-MuiButtonBase-root-MuiToggleButton-root:hover {
+  background-color:darkblue;
+}
+
+
+.MuiToggleButtonGroup-root.css-1ugjv2f-MuiToggleButtonGroup-root{
+    border-radius: 5px;
+   
+}
+
+button.MuiButtonBase-root.MuiToggleButton-root.MuiToggleButton-sizeMedium.MuiToggleButton-standard.MuiToggleButtonGroup-grouped.MuiToggleButtonGroup-groupedHorizontal.sort-button.css-ueukts-MuiButtonBase-root-MuiToggleButton-root:hover{
+    background-color: lightblue;
+}

@@ -1,0 +1,32 @@
+.Home {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.homePanelList,.homePanelWrap, .homeListWrap{
+    overflow-y:auto;
+}
+
+.homePanelList {
+  display: flex;
+
+  flex: 1;
+
+
+}
+
+.homePanelWrap {
+  flex-basis: 280px;
+  padding: 1.9rem;
+
+
+}
+
+.homeListWrap {
+  flex:1;
+
+  padding: 1rem;
+
+}
+

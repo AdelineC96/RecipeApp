@@ -1,0 +1,26 @@
+.toggleButtonGroup{
+    width:100%;
+    justify-content: space-between;
+}
+
+.toggle{
+    font-family: 'Raleway', sans-serif;
+    font-size: .8rem;
+    border:1px solid rgba(0,0,0,0.12);
+    border-radius: 10px;
+
+}
+
+.css-1gjgmky-MuiToggleButtonGroup-root .MuiToggleButtonGroup-grouped{
+    border-radius:10px !important;
+
+}
+
+.MuiToggleButtonGroup-groupedHorizontal:not(:first-child){
+    border-radius:10px;
+    border:1px solid rgba(216,143,143,0.12);
+
+}
+
+
+
